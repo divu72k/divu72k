@@ -110,7 +110,6 @@ Windows Internals    [████░░░░░░░░░░░░░░░�
 
 ---
 
-## `// stats`
 
 ## `// github telemetry`
 
