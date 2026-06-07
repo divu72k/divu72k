@@ -110,6 +110,22 @@ Windows Internals    [████░░░░░░░░░░░░░░░�
 
 ---
 
+## Terminal
+
+$ current_focus
+
+Web Security
+Windows Internals
+Red Teaming
+
+$ next_goal
+
+Security Consultant
+
+$ status
+
+Learning every day.
+
 
 ## `// github telemetry`
 
