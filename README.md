@@ -66,25 +66,6 @@ goal: Security Consulting → Red Team Operations → Security Research
 
 ---
 
-## `// projects`
-
-### Secure Authentication Architecture
-Refresh token rotation implementation with full session lifecycle management.
-`JWT` · `Session Management` · `Token Revocation` · `Secure Cookies` · `PostgreSQL`
-
----
-
-### Blockchain Emergency Alert System
-Decentralized SOS platform with on-chain coordination and decentralized storage.
-`Solidity` · `Hardhat` · `React` · `Ethers.js` · `IPFS`
-
----
-
-### Identity Verification Platform
-Experimental decentralized identity system inspired by secure communication models.
-`Web3` · `DID` · `Cryptography`
-
----
 
 ## `// toolkit`
 
