@@ -97,7 +97,7 @@ Windows Internals    [████░░░░░░░░░░░░░░░�
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=divu72k&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divu72k&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -110,6 +110,6 @@ Windows Internals    [████░░░░░░░░░░░░░░░�
 
 ## `// connect`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/divyesh-kumar-mahanta-204b18204/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-kumar-mahanta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/divu72k)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:divyesh05112004@gmail.com)
