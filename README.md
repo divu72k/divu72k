@@ -79,18 +79,6 @@ goal: Security Consulting → Red Team Operations → Security Research
 
 ---
 
-## `// skill progress`
-
-```
-Backend Engineering  [██████████░░░░░░░░░░]  ~52%
-Web Security         [████████░░░░░░░░░░░░]  ~40%
-Red Teaming          [███████░░░░░░░░░░░░░]  ~35%
-Malware Analysis     [█████░░░░░░░░░░░░░░░]  ~25%
-Windows Internals    [████░░░░░░░░░░░░░░░░]  ~20%
-```
-
----
-
 
 
 ## `// github telemetry`
