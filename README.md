@@ -43,26 +43,6 @@ Currently somewhere between **"this shouldn't be possible"** and **"oh, that's w
 | Blockchain Security | Smart contracts, dumb bugs |
 | OS & Internals | The ground everything runs on |
 
----
-
-## `// current mission`
-
-```yaml
-status: active
-
-learning:
-  - PortSwigger Web Security Academy
-  - Linux & Windows Internals
-  - x86 Assembly + Exploitation Techniques
-  - Advanced Backend Engineering
-
-building:
-  - Secure Authentication Systems
-  - Security-Focused Web Applications
-  - Blockchain Projects
-
-goal: Security Consulting → Red Team Operations → Security Research
-```
 
 ---
 
@@ -73,7 +53,7 @@ goal: Security Consulting → Red Team Operations → Security Research
 
 **Backend** — Node.js · Express.js · PostgreSQL · MySQL
 
-**Security** — Burp Suite · Wireshark · Metasploit · Nmap · Linux
+**Security** — Burp Suite · Wireshark · Sliver · Nmap · Linux
 
 **Blockchain** — Ethereum · Hardhat · Ethers.js · Smart Contracts
 
